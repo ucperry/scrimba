@@ -1,1 +1,1 @@
-# scrimba This is an initial file to explain that this repo is my attempt at learing React and Js from Scrimba Courses
+# scrimba This is my initial repo where I'll be keeping all files pertaining to my courses in scrimba while learning React and JS
